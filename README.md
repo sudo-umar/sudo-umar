@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/nyljaMX.png)](https://i.imgur.com/nyljaMX.png)
+[![MasterHead](https://i.imgur.com/nyljaMX.png)]
 <h1 align="center">Hi 👋, I'm Umar Akram</h1>
 <h3 align="center">A passionate data scientist/data engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
