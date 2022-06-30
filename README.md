@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Umar Akram</h1>
 <h3 align="center">A passionate data scientist/data engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-- 🔭 I’m currently working on **building a health monitory system for sensors/transformers and building a complete pipeline from detching data to inference and displaying on dashboard**
+- 🔭 I’m currently working on building a health monitory system for sensors/transformers and building a complete pipeline from fetching data to inference and displaying on dashboard
 
 - 📝 I regularly write articles on [https://sudo-umar.github.io/](https://sudo-umar.github.io/)
 
