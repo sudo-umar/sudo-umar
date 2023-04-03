@@ -1,16 +1,15 @@
 [![MasterHead](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1920,h_480/https://www.inspiredbusinessmedia.com/wp-content/uploads/2020/09/Twilio.jpg)](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1920,h_480/https://www.inspiredbusinessmedia.com/wp-content/uploads/2020/09/Twilio.jpg)
 <h1 align="center">Hi 👋, I'm Umar Akram</h1>
-<h3 align="center">A passionate data scientist/data engineer</h3>
+<h3 align="center">A passionate Software Engineer | Data Scientist</h3>
 
-- 🔭 I’m currently working on **building a health monitory system for sensors/transformers and building a complete pipeline from fetching data to inference and displaying on dashboard**
+- 🔭 Worked on Event driven microservices and Predictive maintenance system.
 
-- 🌱 I’m currently learning **designing machine learning systems**
 
-- 👯 I’m looking to collaborate on **machine learning projects**
+- 👯 I’m looking to collaborate on **Node.js, Go lang and machine learning projects**
 
 - 📝 I regularly write articles on [https://medium.com/@umar_akram](https://medium.com/@umar_akram)
 
-- 💬 Ask me about **machine learning or data engineering stuff**
+- 💬 Ask me about **machine learning or Software engineering**
 
 - 📫 How to reach me **umar.akram414@gmail.com**
 
